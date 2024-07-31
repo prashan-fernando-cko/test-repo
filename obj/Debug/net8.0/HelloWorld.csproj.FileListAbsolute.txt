@@ -1,0 +1,14 @@
+C:\Users\PrashanFernando\Downloads\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\PrashanFernando\Downloads\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\PrashanFernando\Downloads\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\PrashanFernando\Downloads\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\PrashanFernando\Downloads\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\PrashanFernando\Downloads\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

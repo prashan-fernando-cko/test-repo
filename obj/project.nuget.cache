@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cpyaCzzud80nhyMkvVAg8t1CA1IeX9GUl20/hJQj8sCHJzvIGAvcwkrDGsE9hyqWcsHHxYDwTd3XEm+ptISsIQ==",
+  "dgSpecHash": "c+UmPC8p+QSkh2qtvbuoP2lHcCUHNXzfetUWvJcNHL+a7aimcxz++YxdjHReh9+Mv8GedM4XyYYWV9P4X8T7bQ==",
   "success": true,
   "projectFilePath": "/mnt/c/Users/PrashanFernando/Downloads/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/prashan/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.7/microsoft.netcore.app.runtime.linux-x64.8.0.7.nupkg.sha512",
+    "/home/prashan/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.7/microsoft.aspnetcore.app.runtime.linux-x64.8.0.7.nupkg.sha512",
+    "/home/prashan/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.7/microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
